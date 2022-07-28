@@ -14,6 +14,11 @@ console.log('hello world');
 // git config --global core.editor "code --wait" - open git config in vscode
 // when adding an alias give the full command minus git (see alias.txt)
 // git push origin - send changes to remote repo
-
+// git pull origin - downloads the files from master branch to local machine
+// git checkout -b <branchname> create a new branch 
+// git checkout <branchname> switches from one branch to another
+// git switch -  -switches to the previous branch
+// git branch - views all branches
+// git merge <branchname> it updates current branch with new information from the other branch
 console.log('hello from git');
 console.log('asdfasdf');
