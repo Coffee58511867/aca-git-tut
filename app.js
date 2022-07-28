@@ -19,5 +19,6 @@ console.log('hello world');
 // git checkout <branchname> switches from one branch to another
 // git switch -  -switches to the previous branch
 // git branch - views all branches
+// git merge <branchname> it updates current branch with new information from the other branch
 console.log('hello from git');
 console.log('asdfasdf');
