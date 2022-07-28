@@ -21,6 +21,7 @@ console.log('hello world');
 // git switch -  -switches to the previous branch
 // git branch - views all branches
 // git merge <branchname> it updates current branch with new information from the other branch
+// git branch -d <branchname> - deletes the specified branch
 console.log('hello from git');
 console.log('asdfasdf');
 
