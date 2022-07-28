@@ -7,6 +7,9 @@ console.log('hello world');
 // "the purpose of this commit is to... <message>"
 // git log - view commits
 // git log --oneline
+// git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+// git config --global user.name "FirstName LastName"
+// git config --global user.email "youremail@fake.com"
 
 console.log('hello from git');
 console.log('asdfasdf');
