@@ -10,6 +10,7 @@ console.log('hello world');
 // git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 // git config --global user.name "FirstName LastName"
 // git config --global user.email "youremail@fake.com"
+// git config --global --edit - open the config file
 
 console.log('hello from git');
 console.log('asdfasdf');
