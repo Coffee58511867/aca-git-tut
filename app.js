@@ -13,6 +13,7 @@ console.log('hello world');
 // git config --global --edit - open the config file
 // git config --global core.editor "code --wait" - open git config in vscode
 // when adding an alias give the full command minus git (see alias.txt)
+// git push origin - send changes to remote repo
 
 console.log('hello from git');
 console.log('asdfasdf');
