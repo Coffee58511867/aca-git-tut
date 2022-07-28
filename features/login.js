@@ -1,1 +1,2 @@
-export const login = (name) => console.log('Welcome' + name);
+export const login = (name, surname) =>
+  console.log(`Welcome ${name} ${surname}`);
