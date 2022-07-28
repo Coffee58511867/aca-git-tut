@@ -6,3 +6,4 @@ console.log('hello world');
 // "the purpose of this commit is to... <message>"
 
 console.log('hello from git');
+console.log('asdfasdf');
